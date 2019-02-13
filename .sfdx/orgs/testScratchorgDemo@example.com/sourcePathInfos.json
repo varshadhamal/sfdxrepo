@@ -1,0 +1,138 @@
+[
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app",
+        {
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549608856524,
+            "changeTime": 1549608856524,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549608856524,
+            "changeTime": 1549608856524,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549894148766,
+            "changeTime": 1549894148766,
+            "contentHash": "0803afd433bedf4fb3c621888196f3a590a9c016"
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx",
+        {
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549609166156,
+            "changeTime": 1549619569936,
+            "contentHash": "d886598c884b9cebfb2291bd9f47a43c34fd9899",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\pages\\DevOps_Demo.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\pages\\DevOps_Demo.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 287,
+            "modifiedTime": 1549894148751,
+            "changeTime": 1549894148751,
+            "contentHash": "96f846db5e15f5881e7860ab1b171a554a8c1abb"
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\pages\\DevOps_Demo.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\pages\\DevOps_Demo.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 177,
+            "modifiedTime": 1549894148751,
+            "changeTime": 1549894148751,
+            "contentHash": "ba338e5a3802608a14fb2219e8b2989636303cfb"
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\classes\\Demo_DevOps.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\classes\\Demo_DevOps.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1549894148766,
+            "changeTime": 1549894148766,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\classes\\Demo_DevOps.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\classes\\Demo_DevOps.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 46,
+            "modifiedTime": 1549894148766,
+            "changeTime": 1549894148766,
+            "contentHash": "01883813a4754afbb6441a9c08500e96194a710c"
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549894148751,
+            "changeTime": 1549894148751,
+            "contentHash": "4eae15aad9ef113e2e531a1aa309bc9a27564607"
+        }
+    ],
+    [
+        "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\varsha.d.saste\\my_sfdx_project\\dreamhouse-sfdx\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549894148766,
+            "changeTime": 1549894148766,
+            "contentHash": "b0a9b514937299622de820d7965835f46283cda8"
+        }
+    ]
+]
